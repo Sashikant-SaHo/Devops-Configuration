@@ -1,0 +1,22 @@
+>>Git Installation on Linux OS
+
+sudo apt-get install git
+
+>>check version
+
+git --version
+
+>>Remove install on linux
+
+sudo apt-get remove pkg_name
+
+>>Update any package on Linux OS
+
+sudo apt-get update pkg_name
+>>check the path of git installation
+
+which git
+
+>>CLone any git remote repositary
+
+git clone url_link
