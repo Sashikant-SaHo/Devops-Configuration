@@ -20,3 +20,18 @@ which git
 >>CLone any git remote repositary
 
 git clone url_link
+
+>>create new file on linux 
+touch file_1 file_2
+
+>>Display file 
+cat file_1 file_2
+
+>Git commit to remote Repositary
+git commit -m 'message ' file_1
+
+>>git check status 
+git status
+
+>>puch code to remote repositary
+git push
