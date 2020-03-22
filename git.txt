@@ -38,3 +38,6 @@ git push
 ##Braching on Git
 >>create new branch
 git branch br_name
+
+-------------------------xxx-------------------------------------
+New chapter is coming soon
