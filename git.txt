@@ -35,3 +35,6 @@ git status
 
 >>puch code to remote repositary
 git push
+##Braching on Git
+>>create new branch
+git branch br_name
